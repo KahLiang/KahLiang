@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Kah Liang!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KahLiang&show_icons=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KahLiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KahLiang/KahLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +24,14 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
 
 ### My Journey for Programming
 * Inspiring Quote Auto Selection (Year 2021)
-  * A web application that can sentiment analysis the text status to specific sentiment.
+  * A web application implements text classification model to predict user's sentiment.
 * Embedded Entrepreneurial Learning Scheme 2020 (Year 2020)
   * A competition about Innovative Computer Vision Solutions towards Solving Challenges in the New Normal.
 * Superhero Character Design Competition - SUPREME 2019 (Year 2019)
   * A competition to design superhero characters using HTML and CSS.
 * Party Planner Booking System (Year 2018)
   * A web application allows users to book or custimize their party.
+
+### 📫 How to reach me
+[kliang.ong@gmail.com](mailto:kliang.ong@gmail.com)
+[My Linkedin](https://www.linkedin.com/in/kah-liang/)
