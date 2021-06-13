@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>##Hi there 👋 I am Kah Liang!</center>
+<p align="center"
+   <h2>Hi there 👋 I am Kah Liang!</h2>
+</p>
 
- 
 ## About Me
 I love programming and I am enjoying in design and develop programs. I first started looking into the idea to learn to code was during my diploma study. Mostly, I am on the front-end side of web development. I work with HTML, CSS, JavaScript, JQuery and PHP. I have developed a "Party Planner Booking System" as my final year project in my diploma.
 
@@ -42,5 +43,5 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
   * A web application allows users to book or custimize their party.
 
 ## 📫 How to reach me
-My Email Address: [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com) &nbsp;&nbsp;
+My Email Address: [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com)  
 My LinkedIn Profile: [My Linkedin](https://www.linkedin.com/in/kah-liang/)
