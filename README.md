@@ -22,11 +22,9 @@ I love programming and I am enjoying in design and develop programs. I first sta
 
 After my diploma study, I am taking a degree in Artificial Intelligence. I have experience in image classification for fruit & vegetables, computer vision for social distancing monitoring and natural language processing for sentiment analysis on social media platforms.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KahLiang&layout=compact)](https://github.com/KahLiang/github-readme-stats)
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahLiang&layout=compact">
 </p>
-
 
 ## 👀 My Journey in Programming
 * Inspiring Quote Auto Selection (Year 2021)
