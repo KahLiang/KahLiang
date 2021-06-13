@@ -41,5 +41,5 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
   * A web application allows users to book or custimize their party.
 
 ## 📫 How to reach me
-My Email Address: [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com) &nbsp;
+My Email Address: [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com) &nbsp;&nbsp;
 My LinkedIn Profile: [My Linkedin](https://www.linkedin.com/in/kah-liang/)
