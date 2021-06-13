@@ -36,7 +36,7 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
 * Superhero Character Design Competition - SUPREME 2019 (Year 2019)
   * A competition to design superhero characters using HTML and CSS.
 * Party Planner Booking System (Year 2018)
-  * A web application allows users to book or custimize their party.
+  * A web application allows users to book or customize their party.
 
 ## 📫 How to reach me
 My Email Address: [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com)  
