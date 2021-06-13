@@ -13,18 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- ### Hi there 👋 I am Kah Liang!
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KahLiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ ## Hi there 👋 I am Kah Liang!
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KahLiang&repo=github-readme-stats" />
 </p>
 
-### About Me
+'''
+## About Me
 I love programming and I am enjoying in design and develop programs. I first started looking into the idea to learn to code was during my diploma study. Mostly, I am on the front-end side of web development. I work with HTML, CSS, JavaScript, JQuery and PHP. I have developed a "Party Planner Booking System" as my final year project in my diploma.
 
 After my diploma study, I am taking a degree in Artificial Intelligence. I have experience in image classification for fruit & vegetables, computer vision for social distancing monitoring and natural language processing for sentiment analysis on social media platforms.
+'''
 
-### My Journey for Programming
+## My Journey for Programming
 * Inspiring Quote Auto Selection (Year 2021)
   * A web application implements text classification model to predict user's sentiment.
 * Embedded Entrepreneurial Learning Scheme 2020 (Year 2020)
