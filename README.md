@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 <p align="center">
  ## Hi there 👋 I am Kah Liang!
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/KahLiang/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KahLiang&repo=github-readme-stats" />
  </a>
-</p>
-
-'''
-## About Me
+ 
+ ## About Me
 I love programming and I am enjoying in design and develop programs. I first started looking into the idea to learn to code was during my diploma study. Mostly, I am on the front-end side of web development. I work with HTML, CSS, JavaScript, JQuery and PHP. I have developed a "Party Planner Booking System" as my final year project in my diploma.
 
 After my diploma study, I am taking a degree in Artificial Intelligence. I have experience in image classification for fruit & vegetables, computer vision for social distancing monitoring and natural language processing for sentiment analysis on social media platforms.
-'''
+
 
 ## My Journey for Programming
 * Inspiring Quote Auto Selection (Year 2021)
@@ -37,6 +35,8 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
 * Party Planner Booking System (Year 2018)
   * A web application allows users to book or custimize their party.
 
-### 📫 How to reach me
+## 📫 How to reach me
 [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com)
 [My Linkedin](https://www.linkedin.com/in/kah-liang/)
+ 
+</p>
