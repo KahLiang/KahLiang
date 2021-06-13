@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <h3>Hi there 👋 I am Kah Liang!</h3>
+   Hi there 👋 I am Kah Liang!
 </p>
 
 ## 😄 About Me
