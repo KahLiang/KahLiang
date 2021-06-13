@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
- <h2>Hi there 👋 I am Kah Liang!</h2>
-</p> 
+
+<center>##Hi there 👋 I am Kah Liang!</center>
+
  
 ## About Me
 I love programming and I am enjoying in design and develop programs. I first started looking into the idea to learn to code was during my diploma study. Mostly, I am on the front-end side of web development. I work with HTML, CSS, JavaScript, JQuery and PHP. I have developed a "Party Planner Booking System" as my final year project in my diploma.
