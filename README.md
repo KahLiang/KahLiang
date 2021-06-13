@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"
+<p align="center">
    <h3>Hi there 👋 I am Kah Liang!</h3>
 </p>
 
