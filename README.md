@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 </p>
 
 ## 😄 About Me
+<p align="justify">
 I love programming and I am enjoying in design and develop programs. I first started looking into the idea to learn to code was during my diploma study. Mostly, I am on the front-end side of web development. I work with HTML, CSS, JavaScript, JQuery and PHP. I have developed a "Party Planner Booking System" as my final year project in my diploma.
 
 After my diploma study, I am taking a degree in Artificial Intelligence. I have experience in image classification for fruit & vegetables, computer vision for social distancing monitoring and natural language processing for sentiment analysis on social media platforms.
+</p>
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahLiang&layout=compact">
