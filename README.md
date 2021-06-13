@@ -23,10 +23,10 @@ I love programming and I am enjoying in design and develop programs. I first sta
 After my diploma study, I am taking a degree in Artificial Intelligence. I have experience in image classification for fruit & vegetables, computer vision for social distancing monitoring and natural language processing for sentiment analysis on social media platforms.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KahLiang&layout=compact)](https://github.com/KahLiang/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/KahLiang/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KahLiang&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/KahLiang/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KahLiang&repo=convoychat" />
 </a>
 
