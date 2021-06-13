@@ -40,4 +40,4 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
 
 ## 📫 How to reach me
 My Email Address: [kliang.ong@gmail.com](mailto:kliang.ong@gmail.com)  
-My LinkedIn Profile: [My Linkedin](https://www.linkedin.com/in/kah-liang/)
+My LinkedIn Profile: [My LinkedIn](https://www.linkedin.com/in/kah-liang/)
