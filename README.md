@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Kah Liang!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KahLiang&show_icons=true&theme=tokyonight)
+
 
 <!--
 **KahLiang/KahLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I love programming and I am enjoying in design and develop programs. I first started looking into the idea to learn to code was during my diploma study. Mostly, I am on the front-end side of web development. I work with HTML, CSS, JavaScript, JQuery and PHP. I have developed a "Party Planner Booking System" as my final year project in my diploma.
+
+After my diploma study, I am taking a degree in Artificial Intelligence. I have experience in image classification for fruit & vegetables, computer vision for social distancing monitoring and natural language processing for sentiment analysis on social media platforms.
+
+### My Journey for Programming
+* Inspiring Quote Auto Selection (Year 2021)
+  * A web application that can sentiment analysis the text status to specific sentiment.
+* Embedded Entrepreneurial Learning Scheme 2020 (Year 2020)
+  * A competition about Innovative Computer Vision Solutions towards Solving Challenges in the New Normal.
+* Superhero Character Design Competition - SUPREME 2019 (Year 2019)
+  * A competition to design superhero characters using HTML and CSS.
+* Party Planner Booking System (Year 2018)
+  * A web application allows users to book or custimize their party.
