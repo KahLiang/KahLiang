@@ -30,7 +30,7 @@ After my diploma study, I am taking a degree in Artificial Intelligence. I have 
 
 ## 👀 My Journey in Programming
 * Inspiring Quote Auto Selection (Year 2021)
-  * A web application implements text classification model to predict user's sentiment.
+  * A Python flask web application implements text classification model to predict user's sentiment.
 * Embedded Entrepreneurial Learning Scheme 2020 (Year 2020)
   * A competition about Innovative Computer Vision Solutions towards Solving Challenges in the New Normal.
 * Superhero Character Design Competition - SUPREME 2019 (Year 2019)
